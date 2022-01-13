@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) [2022], [Todo Lodo]
+Copyright (c) [2022], [Todo Lodo](https://github.com/Todo-Lodo)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
